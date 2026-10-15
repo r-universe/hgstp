@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/hgstp/hgstp.r-universe.dev
 	branch = HEAD
+[submodule "idsst.rtutorials"]
+	path = idsst.rtutorials
+	url = https://github.com/hgstp/idsst.rtutorials
